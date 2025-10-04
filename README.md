@@ -63,9 +63,5 @@ Push changes to the `main` branch to trigger the GitHub Actions pipeline.
 - GitOps: Manage deployments through Git pull requests.
 - Monitoring: View application and infrastructure metrics in Azure Monitor.
 
----
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
